@@ -1,0 +1,8 @@
+- url: /
+  title: Home
+
+- url: /publications
+  title: Publications
+
+- url: /docs/Berthine.pdf
+  title: CV
