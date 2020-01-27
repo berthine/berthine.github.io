@@ -1,4 +1,4 @@
-# Saikat-S.github.io
+# Berthine.github.io
 Personal webpage
 
-- [saikat-s.github.io](https://saikat-s.github.io/)
+- [berthine.github.io](https://berthine.github.io/)
