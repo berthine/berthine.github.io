@@ -28,16 +28,21 @@
 }
 
 .fa-linkedin {
-  background: #007bb5;
+  background: #066c9b;
   color: white;
 }
 .fa-github {
-  background: #007bb5;
-  color: white;
+  background: #ffffff;
+  color: black;
 }
 
 .fa-youtube {
   background: #bb0000;
+  color: white;
+}
+
+.fa-researchgate {
+  background: #76e9da;
   color: white;
 }
 
